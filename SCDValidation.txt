@@ -1,4 +1,4 @@
---To Create source table
+--To Cr new table
 
 Create table Source_EMP
 (
